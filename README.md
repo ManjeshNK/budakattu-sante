@@ -48,7 +48,7 @@ worker/ → Background tasks
 
 ### Clone the Repository
 
-git clone [https://github.com/malikarshid01430-byte/Budakattu-Sante.git](https://github.com/malikarshid01430-byte/Budakattu-Sante.git)
+git clone [https://github.com/ManjeshNK/budakattu-sante.git](https://github.com/ManjeshNK/budakattu-sante.git)
 
 ---
 
