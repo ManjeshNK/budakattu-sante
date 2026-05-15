@@ -2,7 +2,7 @@
 
 A modern Android application built to support tribal farmers and local markets. It helps you manage products, pre orders, supply tracking, and transactions with a simple and reliable system.
 
----
+----
 
 ## 🚀 Features
 
