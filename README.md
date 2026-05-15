@@ -109,7 +109,7 @@ This project is developed for academic and internship purposes
 
 ## 👨‍💻 Author
 
-Developed by Arshid Ahmad Malik
+Developed by Manjesh NK
 
 ---
 
